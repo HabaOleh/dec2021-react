@@ -1,8 +1,9 @@
+import SpaceX from "./components/SpaceX";
 
 function App() {
   return (
     <div className="App">
-      App
+      <SpaceX/>
     </div>
   );
 }
